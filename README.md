@@ -12,7 +12,7 @@ Backend del Sistema de Examen de Admisión, desarrollado bajo una Arquitectura M
 2. Instalar dependencias: `yarn install`
 3. Configurar variables de entorno: Crea un archivo `.env` en la raíz y agrega `MONGO_URI=aqui_va_la_url` y `PORT=3000`.
 4. Levantar servidor: `yarn dev`
-
+pLLITOS 
 ## 📚 Documentación del proyecto
 * 📦 **[Guía de Instalación y Herramientas](./GUIA_INSTALACION.md)** — todo el software, extensiones y dependencias necesarias, explicadas en detalle.
 * 🤝 **[Guía de Contribución](./CONTRIBUTING.md)** — reglas de ramas, commits y Pull Requests para el equipo.
